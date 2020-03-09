@@ -16,4 +16,3 @@ LC6_Analysis_connMatrix_data.RData	-- contains initial data for running LC6_Anal
 
 The rest are data and calibration files used by LC6_Analysis.R
 
-AZ
